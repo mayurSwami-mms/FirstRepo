@@ -9,7 +9,7 @@ public without sharing class ChartHelper {
     }
 
     return cht;
-    //this is hange
+    //this is hang
   }
 
 
